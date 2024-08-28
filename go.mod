@@ -1,4 +1,4 @@
-module smallgamekit
+module github.com/seanoneillcode/smallgamekit
 
 go 1.22.6
 
