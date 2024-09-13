@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"log"
-	"smallgamekit/sgk"
 
 	"github.com/hajimehoshi/ebiten/v2"
+	"github.com/seanoneillcode/smallgamekit/sgk"
 )
 
 type Game struct {
