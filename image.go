@@ -1,4 +1,4 @@
-package sgk
+package smallgamekit
 
 import (
 	"bytes"
